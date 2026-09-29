@@ -1,6 +1,6 @@
 # ¡Hola, soy Enzo Corte! 👋
 
-### 🏭 Ingeniero Industrial | 🔬 Becario Doctoral CONICET (4to Año) | 📊 Data Quality & Engineering
+### 🏭 Ingeniero Industrial | 🔬 Becario Doctoral CONICET | 📊 Data Quality & Engineering
 
 Apasionado por la convergencia entre la **ingeniería de procesos industriales**, el **rigor científico-experimental** y la **ingeniería de datos moderna**. Cuento con experiencia previa en planta química/minera y actualmente curso mi **4to año de Doctorado en CONICET**, investigando **métodos no convencionales para la producción de agua segura**, aplicando análisis estadístico, adquisición de datos de procesos y optimización.
 
