@@ -2,7 +2,7 @@
 
 ### 🏭 Ingeniero Industrial | 🔬 Becario Doctoral CONICET | 📊 Data Quality & Engineering
 
-Apasionado por la convergencia entre la **ingeniería de procesos industriales**, el **rigor científico-experimental** y la **ingeniería de datos moderna**. Cuento con experiencia previa en planta química/minera y actualmente curso mi **4to año de Doctorado en CONICET**, investigando **métodos no convencionales para la producción de agua segura**, aplicando análisis estadístico, adquisición de datos de procesos y optimización.
+Apasionado por la convergencia entre la **ingeniería de procesos industriales**, el **rigor científico-experimental** y la **ingeniería de datos moderna**. Cuento con experiencia previa en planta química/minera y actualmente estoy investigando **métodos no convencionales para la producción de agua segura**, aplicando análisis estadístico, adquisición de datos de procesos y optimización.
 
 Mi objetivo técnico es trasladar las metodologías de calidad industrial al ciclo de vida del dato: garantizar la **trazabilidad, integridad, confiabilidad y calidad de los datos (Data Quality, DataOps & Observability)** en arquitecturas modernas y pipelines analíticos.
 
@@ -36,7 +36,7 @@ Mi objetivo técnico es trasladar las metodologías de calidad industrial al cic
 ---
 
 ### 📬 Conectemos
-- 💼 **LinkedIn:** [Enzo Marcelo Corte](https://www.linkedin.com) *(reemplaza este link por tu URL directa si la tienes)*
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/enzo-corte-perez/) 
 - ✉️ **Email:** `enzoocorte@gmail.com`
 <!--
 **enzoocorte/enzoocorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
